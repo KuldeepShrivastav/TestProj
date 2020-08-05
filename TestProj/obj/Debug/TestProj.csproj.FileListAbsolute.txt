@@ -1,0 +1,7 @@
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\bin\Debug\TestProj.exe.config
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\bin\Debug\TestProj.exe
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\bin\Debug\TestProj.pdb
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\obj\Debug\TestProj.csprojResolveAssemblyReference.cache
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\obj\Debug\TestProj.exe
+C:\Self_Learning\DotNetProjectsPipeline\TestProj\TestProj\obj\Debug\TestProj.pdb
